@@ -1,6 +1,8 @@
 ﻿using Library.Domain.DomainEntity;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,6 +11,8 @@ namespace Library.Domain.AggregatesModel.StudentAggregate
 {
     public class Student
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int IdStudent { get; set; }
         public string Name { get; set; }
         public string LastName { get; set; }

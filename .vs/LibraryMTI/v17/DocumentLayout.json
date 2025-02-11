@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25DA744F-6F01-446F-AD34-7E6DE03AD55C}|Library.Infraestructure\\Library.Infraestructure.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.infraestructure\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DA744F-6F01-446F-AD34-7E6DE03AD55C}|Library.Infraestructure\\Library.Infraestructure.csproj|solutionrelative:library.infraestructure\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DA744F-6F01-446F-AD34-7E6DE03AD55C}|Library.Infraestructure\\Library.Infraestructure.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.infraestructure\\migrations\\librarydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DA744F-6F01-446F-AD34-7E6DE03AD55C}|Library.Infraestructure\\Library.Infraestructure.csproj|solutionrelative:library.infraestructure\\migrations\\librarydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DA744F-6F01-446F-AD34-7E6DE03AD55C}|Library.Infraestructure\\Library.Infraestructure.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.infraestructure\\migrations\\20250211174305_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DA744F-6F01-446F-AD34-7E6DE03AD55C}|Library.Infraestructure\\Library.Infraestructure.csproj|solutionrelative:library.infraestructure\\migrations\\20250211174305_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DE77EA4-4D10-4E73-9775-E9182B3A6B52}|Library.Host.Api\\Library.Host.Api.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.host.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE77EA4-4D10-4E73-9775-E9182B3A6B52}|Library.Host.Api\\Library.Host.Api.csproj|solutionrelative:library.host.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE77EA4-4D10-4E73-9775-E9182B3A6B52}|Library.Host.Api\\Library.Host.Api.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.host.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3DE77EA4-4D10-4E73-9775-E9182B3A6B52}|Library.Host.Api\\Library.Host.Api.csproj|solutionrelative:library.host.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.domain\\enum\\enumstatud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\enum\\enumstatud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.domain\\domainentity\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\domainentity\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.domain\\domainentity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\domainentity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.domain\\domainentity\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\domainentity\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.domain\\domainentity\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\domainentity\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.domain\\aggregatesmodel\\studentaggregate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\aggregatesmodel\\studentaggregate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|c:\\users\\etcetera\\desktop\\proyects2025\\librarymti\\library.domain\\aggregatesmodel\\bookaggregate\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC39861-20DC-47D6-99F8-17B210237CB4}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\aggregatesmodel\\bookaggregate\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +67,157 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Host.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Library.Host.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Host.Api\\Program.cs",
-              "RelativeToolTip": "Library.Host.Api\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvxcAAAAfAAAA",
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Infraestructure\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Library.Infraestructure\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Infraestructure\\LibraryDbContext.cs",
+              "RelativeToolTip": "Library.Infraestructure\\LibraryDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:29:18.183Z",
+              "WhenOpened": "2025-02-11T18:35:40.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LibraryDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Infraestructure\\Migrations\\LibraryDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Library.Infraestructure\\Migrations\\LibraryDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Infraestructure\\Migrations\\LibraryDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Library.Infraestructure\\Migrations\\LibraryDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:44:31.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250211174305_InitDB.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Infraestructure\\Migrations\\20250211174305_InitDB.cs",
+              "RelativeDocumentMoniker": "Library.Infraestructure\\Migrations\\20250211174305_InitDB.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Infraestructure\\Migrations\\20250211174305_InitDB.cs",
+              "RelativeToolTip": "Library.Infraestructure\\Migrations\\20250211174305_InitDB.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:43:05.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Host.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Library.Host.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Host.Api\\Program.cs",
+              "RelativeToolTip": "Library.Host.Api\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:42:21.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Host.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Library.Host.Api\\appsettings.json",
               "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Host.Api\\appsettings.json",
               "RelativeToolTip": "Library.Host.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAABBAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-11T17:27:57.532Z",
+              "WhenOpened": "2025-02-11T17:41:51.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "enumStatud.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\Enum\\enumStatud.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\Enum\\enumStatud.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\Enum\\enumStatud.cs",
+              "RelativeToolTip": "Library.Domain\\Enum\\enumStatud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:38:50.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Editorial.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\DomainEntity\\Editorial.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\DomainEntity\\Editorial.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\DomainEntity\\Editorial.cs",
+              "RelativeToolTip": "Library.Domain\\DomainEntity\\Editorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:38:40.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\DomainEntity\\Category.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\DomainEntity\\Category.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\DomainEntity\\Category.cs",
+              "RelativeToolTip": "Library.Domain\\DomainEntity\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:38:34.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\DomainEntity\\Autor.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\DomainEntity\\Autor.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\DomainEntity\\Autor.cs",
+              "RelativeToolTip": "Library.Domain\\DomainEntity\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:38:21.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\DomainEntity\\Borrowing.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\DomainEntity\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\DomainEntity\\Borrowing.cs",
+              "RelativeToolTip": "Library.Domain\\DomainEntity\\Borrowing.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvw8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:34:39.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\AggregatesModel\\StudentAggregate\\Student.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\AggregatesModel\\StudentAggregate\\Student.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\AggregatesModel\\StudentAggregate\\Student.cs",
+              "RelativeToolTip": "Library.Domain\\AggregatesModel\\StudentAggregate\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:34:36.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\AggregatesModel\\BookAggregate\\Book.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\AggregatesModel\\BookAggregate\\Book.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2025\\LibraryMTI\\Library.Domain\\AggregatesModel\\BookAggregate\\Book.cs",
+              "RelativeToolTip": "Library.Domain\\AggregatesModel\\BookAggregate\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:34:22.013Z",
               "EditorCaption": ""
             }
           ]

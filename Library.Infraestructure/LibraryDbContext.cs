@@ -24,7 +24,7 @@ namespace Library.Infraestructure
         public DbSet<Borrowing> Borrowings { get; set; }
         public DbSet<Autor> Autors { get; set; }
         public DbSet<Editorial> Editorials { get; set; }
-        public DbSet<Category> Categories { get; set; }
+      
         
         //protected override void OnModelCreating(ModelBuilder modelBuilder)
         //{

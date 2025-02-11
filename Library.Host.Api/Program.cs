@@ -12,17 +12,14 @@ builder.Services.AddSwaggerGen();
 //Esto es Inyeccion de dependencias
 builder.Services.AddDbContext<LibraryDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefatultConnection"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope()) { 
-
-   // var services = scope.ServiceProvider;
     var context =  scope.ServiceProvider.GetRequiredService<LibraryDbContext>();
     context.Database.Migrate();
-
 }
 
     // Configure the HTTP request pipeline.

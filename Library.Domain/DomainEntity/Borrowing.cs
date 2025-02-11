@@ -2,6 +2,7 @@
 using Library.Domain.AggregatesModel.StudentAggregate;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,8 @@ namespace Library.Domain.DomainEntity
 {
     public class Borrowing
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public int IdStudent { get; set; }
         public int IdBook { get; set; }
